@@ -7,3 +7,4 @@ software available on Void.
 
 - [libvirt](./libvirt.md)
 - [LXC](./lxc.md)
+- [Kubernetes](./kubernetes.md)
